@@ -23,5 +23,9 @@ Once everything is setup you should have something similar to the image below
 
 ![](assets/my-sql-img/sudo-mysql.png)
 
+4. To exit the MySQL console, type:
+ `exit` into the Mysql terminal
+
+ ![](assets/assets/my-sql-img/exit-mysql.png)
 
 #### Your MySQL server is now installed and secured. Next, we will install PHP, the final component in the LAMP stack.
