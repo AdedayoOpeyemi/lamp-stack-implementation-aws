@@ -23,3 +23,5 @@ Once everything is setup you should have something similar to the image below
 
 ![](assets/my-sql-img/sudo-mysql.png)
 
+
+#### Your MySQL server is now installed and secured. Next, we will install PHP, the final component in the LAMP stack.
